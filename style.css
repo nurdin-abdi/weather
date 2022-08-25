@@ -26,6 +26,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	color: white;
 	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
 	line-height: 1;
 	font-size: 1rem;
 	background-image: url(https://source.unsplash.com/1600x900/?landscape);
